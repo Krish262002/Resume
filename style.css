@@ -72,4 +72,11 @@
     animation: gradient-animation 18s ease infinite;
   }
 
+.text {
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    color: #027373;
+    font-weight: bold;
+}
+
   
