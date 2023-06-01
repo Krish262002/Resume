@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+
+#title{
+    background-color: #F2E7DC;
+    color: #027373;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.lp {
+    border-radius: 50%;
+}
+
+.profile{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.y {
+    font-family: 'Libre Baskerville', serif;
+    color: #0583F2;
+    font-weight: bold;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+#mss{
+    font-family: 'Libre Baskerville', serif;
+    color: #027373;
+}
+
+#m{
+    font-family: 'Libre Baskerville', serif;
+    color: #027373;
+    font-weight: bold;
+}
+
+.btn{
+        background: #027373;
+        background-image: linear-gradient(to bottom, #027373, #11999e);
+    }
+}
+
+#my{
+    font-family: 'Libre Baskerville', serif;
+    color: red;
+    font-weight: bold;
+}
+
+.f{
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+    line-height: 1.2;
+    font-family: 'Libre Baskerville', serif;
+    color: red;
+}
+
+.in{
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+  
